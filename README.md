@@ -100,4 +100,8 @@ http://localhost:5173
 
 <img width="1262" height="696" alt="image" src="https://github.com/user-attachments/assets/26c1f4b5-36fe-4877-a809-9ba1a62e9fcf" />
 
+## Deployment
+
+https://pokeappchi10.netlify.app/
+
 
