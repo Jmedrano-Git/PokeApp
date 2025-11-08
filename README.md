@@ -27,7 +27,7 @@ https://pokeapi.co/api/v2/pokemon?limit=20&offset=0
 El consumo se maneja desde el servicio `src/services/pokemonService.js` utilizando Axios.
 
 ---
-###🔧 Requisitos Previos
+## 🔧 Requisitos Previos
 - Node.js Versión LTS recomendado por soporte o superior
 - npm (gestor de paquetes de Node)
 
@@ -85,8 +85,6 @@ cd pokeapp
 
 # Instalar dependencias
 npm install
-
-npm install react-router-dom axios bootstrap
 
 # Ejecución
 npm run dev
